@@ -23,7 +23,6 @@ This repository is only meant to provide kexts and config for making the hackint
 #### Not Working
 
 
-+ Ethernet
 + Sound
   <!-- + Bluetooth kext can be found here: [IntelBluetoothFirmware](https://github.com/zxystd/IntelBluetoothFirmware) -->
 + Thing may never work:
