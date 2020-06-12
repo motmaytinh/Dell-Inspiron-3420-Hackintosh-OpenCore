@@ -10,9 +10,9 @@ This repository is only meant to provide kexts and config for making the hackint
 
 | Model | iMac13,1 | Version | 10.15.1 |
 | :-------- | :--------------------------- | :------------- | :------------------ |
-| Processor | Intel Core i5-3210M | Graphics | Intel HD4000 |
+| Processor | Intel Core i5-3210M | Graphics | Intel HD 4000 |
 | Memory | 1600 MHz DDR3 2x4GB| OS Disk | WD Green 120GB |
-| Audio | Realtek ALC295 | WiFi/Bluetooth | Dell Wireless 1703 (AR9485) |
+| Audio | CS4213 | WiFi/Bluetooth | Dell Wireless 1703 (AR9485) |
 
 ## About build
 
