@@ -271,22 +271,6 @@
 				<key>MinKernel</key>
 				<string></string>
 				<key>BundlePath</key>
-				<string>NullCPUPowerManagement.kext</string>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/NullCPUPowerManagement</string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>BundlePath</key>
 				<string>VoodooInput.kext</string>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooInput</string>
@@ -370,22 +354,6 @@
 				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext</string>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooPS2Trackpad</string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>BundlePath</key>
-				<string>AirPortAtheros40.kext</string>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/AirPortAtheros40</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -498,6 +466,22 @@
 				<string>IO80211Family.kext/Contents/PlugIns/IO80211NetBooter.kext</string>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/IO80211NetBooter</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>BundlePath</key>
+				<string>AirPortAtheros40.kext</string>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/AirPortAtheros40</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -684,7 +668,7 @@
 			<key>DisableRtcChecksum</key>
 			<false/>
 			<key>DummyPowerManagement</key>
-			<false/>
+			<true/>
 			<key>ExternalDiskIcons</key>
 			<false/>
 			<key>IncreasePciBarSize</key>
