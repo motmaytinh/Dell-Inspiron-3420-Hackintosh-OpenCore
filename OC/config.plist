@@ -878,17 +878,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02351300CDDYWFCB</string>
+			<string>C02343306GUF16PJA</string>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMac13,1</string>
+			<string>MacBookPro10,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02LVMYGDNCT</string>
+			<string>C02LL5ZJDR53</string>
 			<key>SystemUUID</key>
-			<string>1EA64EFF-8246-4FFE-BFA6-ABC8F0E9C799</string>
+			<string>3C382328-5E6E-4A35-9B32-C5BB6BCD86DA</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
